@@ -1,0 +1,14 @@
+[
+  {
+    "id": "1",
+    "name": "test post one",
+    "price": 120,
+    "img": ["p1.jpeg", "p3.jpeg"]
+  },
+  {
+    "id": "2",
+    "name": "test post two",
+    "price": 140,
+    "img": ["p2.jpeg"]
+  }
+]
